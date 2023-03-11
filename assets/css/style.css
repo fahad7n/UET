@@ -2056,7 +2056,9 @@ p {
 }
 @media (max-width: 575px) {
   .hero__thumb-2 img.hero-big {
-    width: 100%;
+   
+    width: 365px;
+    height: auto;
   }
 }
 .hero__thumb-2 img.hero-shape-purple {
