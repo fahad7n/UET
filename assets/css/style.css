@@ -2057,7 +2057,7 @@ p {
 @media (max-width: 575px) {
   .hero__thumb-2 img.hero-big {
    
-    width: 365px;
+   width: 91%;
     height: auto;
   }
 }
